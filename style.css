@@ -1,0 +1,22 @@
+.card{
+    border: dotted blue;
+    padding: 20px;
+    justify-content: space-around;
+    display: flex;
+    background: #ddebf8;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom: 6px solid purple;
+    margin: 20px;
+    width: 400px;
+    margin: 0 auto;
+    /* border-radius: 10px; 3:19 TASK */
+    /* margin-left: auto;
+    margin-right: auto; */
+    text-align: center;
+}
+.myim{
+    width: 150px;
+    height: 150px;
+    margin-right: 20px
+}
