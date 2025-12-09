@@ -1,4 +1,4 @@
-# My business caed Project
+# My business card Project
 
 This is a simple project that shows the business caed.
 
